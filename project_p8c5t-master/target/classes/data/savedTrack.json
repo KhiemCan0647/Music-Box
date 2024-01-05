@@ -1,0 +1,25 @@
+{
+    "notes": [
+        {
+            "fileName": "1.C3.wav",
+            "color": "White",
+            "position": "1"
+        },
+        {
+            "fileName": "2.C#3.wav",
+            "color": "Black",
+            "position": "2"
+        },
+        {
+            "fileName": "3.D3.wav",
+            "color": "White",
+            "position": "3"
+        },
+        {
+            "fileName": "4.D#3.wav",
+            "color": "Black",
+            "position": "4"
+        }
+    ],
+    "trackName": "msTrack"
+}

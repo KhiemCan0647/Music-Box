@@ -1,0 +1,13 @@
+{
+  "notes": [
+    {"position":"1",
+      "color": "White",
+      "fileName": "1.C3.wav"
+    },
+    {
+      "position": "2",
+      "color": "Black",
+      "fileName": "2.C#3.wav"
+    }
+  ], "trackName": "My track"
+}
